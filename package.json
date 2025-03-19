@@ -1,0 +1,14 @@
+{
+  "name": "timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron."
+  },
+  "author": "jimixoso",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^35.0.2"
+  }
+}
